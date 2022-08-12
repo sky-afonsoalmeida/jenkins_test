@@ -1,1 +1,2 @@
-echo "sup mate"
+javac Hello.java
+java HelloWorld
